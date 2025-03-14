@@ -21,7 +21,7 @@ Before running this project, ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/server-side-rendering-node-js.git
+   git clone https://github.com/duber1011/server-side-rendering-node-js.git
    cd server-side-rendering-node-js
 
    ```
